@@ -1,5 +1,8 @@
-# SCE-Pepper-Music-Companion
+# Socio-Cogntiive Engineering: Pepper Music Companion
+
 CS4235 Socio-Cognitive-Engineering | Music companion for people with dementia
+
+https://xwiki.ewi.tudelft.nl/xwiki/wiki/sce2024group02/view/0.%20Introduction/a.%20Quickstart/
 
 # Helpful links and info for getting the robot started
 
