@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: sic-framework
+Version: 0.0.1
+Author: Koen Hindriks
+Author-email: k.v.hindriks@vu.nl
+Requires-Dist: numpy
+Requires-Dist: redis
+Requires-Dist: Pillow
+Requires-Dist: six
+Requires-Dist: paramiko
+Requires-Dist: scp

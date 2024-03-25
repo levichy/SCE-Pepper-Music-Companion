@@ -1,0 +1,6 @@
+numpy
+redis
+Pillow
+six
+paramiko
+scp
