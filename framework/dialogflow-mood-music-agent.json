@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testomato-htfy",
+  "private_key_id": "e578d77903c930e2d5f816c6ba1e677048ebee2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkcfWCuDll7Ioo\n+Tijohd8lHyetbY4RHDjH7NVkBy6NafB3hqh1E+LHRl9igDRm/sfqwMKwfTh2AJu\neZZIw9UbqRa1cqPjC/nNLqjQmE9mqqFfLkDDyKFwpu7qrTs6pdDrrRjShinpV3ll\nWWdmKTd3Hk9MuVkDxNMVuzkJg8kM6tzNmYdFk9mo+wXREtScfydRwSfsc5GNQSX6\nHxBmx5tOXmI1m4nE0gfRZjeRFRzoYFviGPnlv8yK2gFdSHMMAkNJ9boRSveOPKB7\nGYx97V0AQLz/0kiFqj4trdNrjhirq9cnotm/oPPSyYpy8aCww4nZJad9tXO3r6b8\n2VwLGxhVAgMBAAECggEABBoSuzXlG/InGey9qlyA+PTulufy3WhHMaDSVsU3atWH\nTVkYV9MI2ZncaQ9nC9x14h/vNkx8wehfxM2MmAJiK3S6CmiETlGa+ubtU4+Ej3ad\nXqjlM07BLVVmAVM6dsde7LhnM3KCwqSWMq5sB57SVuJ1sI48ba+lTaTWtZfG7qMp\nQUshB8mU116yRkFk6/SGGW/3BtzHt5PffCSdMXgbxsTiqsCUn1bR3Rs9i3UR87ZW\niRnhBqMwX8VBVyiDQdopG1Bzf7Yth/EfJVGLALqsKfRtI0D2oUSMgKiKbRJwAjvn\nvl7b09rdYUtrRLtZ/E1eCD8xWYnJaod2D5aCxcUJGQKBgQD+No1xoL+NGHOI3Tmp\nwqMB+TQ0rDGqIkN3yxHSAk1zQPzb3ggMAxwPWJhor7khOwxBVS59WlJdveIl+llT\n/SH6KRUmOrbvZKnPU3T+fmRZ0oL+cWYotUdYv9dpHAl9JHGPQj/P00GhWfrPLpFu\nQ+tmoxfk6nCsMnF6Rym8piu1vQKBgQDmDQm61eqfyZK2/nizV0nVMBKWSWHP2EoU\npUSJX8njjRnbQ8efDx3AXEhPMNklw//N4L67TcKZuIt+Z0M43fIURQg2QcqHgsoc\nDxK6NcZ+Opx+ZRDxQ0RvXS+JjwR0OTNu1OKkY/tqlckB1CYsTOWNg1feXwcBbapi\npqjax0EaeQKBgQDD/4mEfzzQ63ZAotiPo4qMvffbWJweIbbFCOOfeLkAUK3kU0b/\nA/LBfjxcEof5MA6d3LAwY9A3iGxxfZkb4YIt3zj4NbLP1lv6hs0gXpC+lEj9Jq9u\nWX491gOefchvHQcVPi327VmfrsFqtevZCTLY+ow0qfDfQzEs5usuESyIPQKBgQDl\nq/ybyDdugVr1UQcF3U58BXt5CRga3k/PXtQW5kfz4wn+ayPfe8LzKe6TCSyx1IUN\ncKRa8R4oRCMX9lYZbxPhAq5ZJMPjGENZUf8bYtahbTiRw6rvg33ORNVR2zPSKM1d\niDIhdyQpXBMKvVfDAJ5o8skF3A9tcKQby1Fm4mjv2QKBgQDCJBYy/7BvPCdDuMAL\nufQGvuzsPMJPCPIPHaT5zaLppjSpCk3fxPH3n0C1KGVEahnsXBY1ENyirUQnzWWY\nX9trBqhLB+l7HyFrbdJ/4cBQ+lXnJc/U/7XF6fuKo6Sm0rb5IpMZzCpTyLWLjP6N\n8lOKZMnEaeG2X1xqHhrLpzS5yw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mood-magic@testomato-htfy.iam.gserviceaccount.com",
+  "client_id": "114047863468456374035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mood-magic%40testomato-htfy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
