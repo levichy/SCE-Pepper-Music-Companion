@@ -119,7 +119,22 @@ class QueryResult(SICMessage):
         self.intent = None
         if "query_result" in response and response.query_result.intent:
             self.intent = response.query_result.intent.display_name
+        
+        self.rawresult = None
+        if "query_result" in response and response.query_result.intent:
+            self.rawresult = response.query_result
 
+        self.mood = None
+        if "query_result" in response and response.query_result.intent:
+            query_result = response.query_result
+            parameters = query_result.parameters
+            if parameters:
+                for parameter_name, parameter_value in parameters.items():
+                    print(f"Parameter Name: {parameter_name}, Value: {parameter_value}")
+                    if parameter_name == 'mood':
+                        self.mood = parameter_value[0]
+
+        
         self.fulfillment_message = None
         if "query_result" in response and len(response.query_result.fulfillment_messages):
             self.fulfillment_message = str(response.query_result.fulfillment_messages[0].text.text[0])
