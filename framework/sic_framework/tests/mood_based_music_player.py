@@ -29,7 +29,8 @@ MOOD_MUSIC_MAP = {
         "nostalgic": "secrets.wav",
         "unwell": "viva-la-vida.wav",
         "pumped": "pump-it.wav",
-        "angry": "renegades.wav",
+        "confused": "payphone.wav",
+        "angry": "renegades.wav"
     }
 
 MOOD_RESPONSES = {
@@ -45,6 +46,8 @@ MOOD_RESPONSES = {
         "spanish": "Ready for some fiery Spanish beats? Let's dance!",
         "unwell": "I hope you feel better soon. Here's some gentle music to comfort you.",
         "pumped": "Ready to conquer the world? Here's a powerful track to fuel your fire!",
+        "gangster": "Feeling like a boss, huh? Time to crank up the vibes with a track that's straight outta the streets.",
+        "confused": "Lost in the shuffle? Don't worry, let's groove to some tunes that'll clear the fog and set you straight.",
         "angry": "I sense some tension. Let's play something to help soothe and relax you."
     }
 
