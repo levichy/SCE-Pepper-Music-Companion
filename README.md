@@ -1,9 +1,9 @@
-# Socio-Cognitive Engineering: Pepper Music Companion 🤖🎵
+# Pepper: A Robotic Music Companion for Dementia Care 🤖🎵
 
-This repository is part of our group project for the Socio-Cognitive Engineering course (CS4235) at TU Delft, providing a demo of the humanoid robot [Pepper](https://www.aldebaran.com/en/pepper) as an interactive music companion for individuals with dementia.
+This repository is part of our group project for the **Socio-Cognitive Engineering** course (CS4235) at TU Delft, providing a demo of the humanoid robot [Pepper](https://www.aldebaran.com/en/pepper) as an interactive music companion for individuals with dementia.
 
 ## Overview 🌟
-The goal of our project is to enhance the mental well-being and emotional comfort of individuals with dementia in care-homes, using the humanoid robot [Pepper](https://www.aldebaran.com/en/pepper) as interactive music companion.
+The goal of our project is to enhance the mental well-being and emotional comfort of individuals with dementia in care-homes, using the humanoid robot Pepper as interactive music companion.
 
 This repository contains a small demo of Pepper's capability to interact with individuals, assess their mood through dialogue, and play music to enhance their comfort, taking into account their current emotional state. 
 
@@ -42,11 +42,17 @@ python3 sic_framework/tests/mood_based_music_player.py
 If you encounter the error `Could not create server TCP listening socket *:6379: bind: Address already in use.`, please use the following command to stop the Redis server first:
 
 Linux
-`sudo systemctl stop redis-server.service`
+
+```shell
+sudo systemctl stop redis-server.service
+```
 
 MacOS
-`sudo lsof -i :637`
-`kill -9 PID` -> replace 'PID' with the process ID identied in the previous step
+
+```shell
+sudo lsof -i :637
+kill -9 PID # -> replace with PID from previous step
+```
 
 
 ## Contributors 👥
